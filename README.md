@@ -20,4 +20,6 @@ The second one is the destination array with the same type and size and will be 
 
 Your DMA driver shall be used to copy the source array into the destination array.</br>
 
-![screen from proteus](Proteus.gif)
+<!-- ![screen from proteus](Proteus.gif) -->
+![screen from proteus](DMA_Proteus.gif)
+
